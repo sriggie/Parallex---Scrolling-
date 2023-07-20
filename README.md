@@ -4,16 +4,6 @@ This repository contains a dynamic and professional implementation of a parallax
 
 The project showcases the parallax scrolling effect by integrating it with engaging visual elements, creating an immersive and interactive experience for website visitors. The dynamic nature of the website allows for easy customization and modification to suit different themes or purposes.
 
-Table of Contents
-Demo
-Features
-Installation
-Usage
-Customization
-Contributing
-License
-Demo
-To see a live demo of the parallax scrolling website, visit the following link: Demo Website
 
 Parallax Scrolling Demo
 
@@ -30,7 +20,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/parallax-scrolling.git
 Navigate to the project directory:
 
 bash
@@ -66,5 +55,3 @@ Create a new branch: git checkout -b my-branch-name.
 Make your changes and commit them: git commit -m 'Add some feature'.
 Push to the branch: git push origin my-branch-name.
 Open a pull request on the original repository.
-License
-The project is licensed under the MIT License. Feel free to use and modify the code according to your needs.
